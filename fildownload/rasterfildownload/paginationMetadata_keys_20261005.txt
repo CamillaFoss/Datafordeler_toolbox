@@ -1,0 +1,4 @@
+currentPage
+pageSize
+totalCount
+totalPages

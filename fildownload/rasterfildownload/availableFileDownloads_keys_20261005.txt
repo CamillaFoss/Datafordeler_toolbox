@@ -1,0 +1,15 @@
+availableFileDownloads
+availableFileDownloads.boundingBox
+availableFileDownloads.boundingBox.maxX
+availableFileDownloads.boundingBox.maxY
+availableFileDownloads.boundingBox.minX
+availableFileDownloads.boundingBox.minY
+availableFileDownloads.dataDeliveryNumber
+availableFileDownloads.dataSetName
+availableFileDownloads.fileFormat
+availableFileDownloads.fileName
+availableFileDownloads.fileSizeInBytes
+availableFileDownloads.generationTime
+availableFileDownloads.id
+availableFileDownloads.register
+availableFileDownloads.version
